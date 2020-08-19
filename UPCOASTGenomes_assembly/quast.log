@@ -1,0 +1,256 @@
+/home/zohaib/.conda/envs/shovill-1.1.0/bin/quast.py -o /home/zohaib/upcoast-v/assemblies/combined_quast -t 12 /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00211-02/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00285-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00363-04/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00377-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00223-16/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00270-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00319-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00354-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00371-05/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2002-MI-00380-09/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2003-MI-00331-04/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2004-MI-00141-25/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2004-MI-00209-11/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2005-MI-00166-03/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2005-MI-00182-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2005-MI-00271-09/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2006-MI-00138-19/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2006-MI-00192-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00151-02/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00154-05/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00164-02/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00172-08/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00185-05/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00187-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00208-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00222-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00116-04/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00174-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00278-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00279-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2010-MI-00125-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2010-MI-00168-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2010-MI-00280-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00135-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00146-01/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00237-07/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00261-06/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00286-02/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00289-06/contigs.fa /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00312-01/contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-229.14.1.el7.x86_64-x86_64-with-centos-7.1.1503-Core (linux_64)
+  Python version: 3.6.10
+  CPUs number: 32
+
+Started: 2020-08-10 23:33:13
+
+Logging to /home/zohaib/upcoast-v/assemblies/combined_quast/quast.log
+
+CWD: /home/zohaib/upcoast-v/assemblies
+Main parameters: 
+  MODE: default, threads: 12, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00211-02/contigs.fa ==> BUR-FI-2000-MI-00211-02_contigs
+  2  /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00285-01/contigs.fa ==> BUR-FI-2000-MI-00285-01_contigs
+  3  /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00363-04/contigs.fa ==> BUR-FI-2000-MI-00363-04_contigs
+  4  /home/zohaib/upcoast-v/assemblies/BUR-FI-2000-MI-00377-01/contigs.fa ==> BUR-FI-2000-MI-00377-01_contigs
+  5  /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00223-16/contigs.fa ==> BUR-FI-2001-MI-00223-16_contigs
+  6  /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00270-01/contigs.fa ==> BUR-FI-2001-MI-00270-01_contigs
+  7  /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00319-01/contigs.fa ==> BUR-FI-2001-MI-00319-01_contigs
+  8  /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00354-01/contigs.fa ==> BUR-FI-2001-MI-00354-01_contigs
+  9  /home/zohaib/upcoast-v/assemblies/BUR-FI-2001-MI-00371-05/contigs.fa ==> BUR-FI-2001-MI-00371-05_contigs
+  10 /home/zohaib/upcoast-v/assemblies/BUR-FI-2002-MI-00380-09/contigs.fa ==> BUR-FI-2002-MI-00380-09_contigs
+  11 /home/zohaib/upcoast-v/assemblies/BUR-FI-2003-MI-00331-04/contigs.fa ==> BUR-FI-2003-MI-00331-04_contigs
+  12 /home/zohaib/upcoast-v/assemblies/BUR-FI-2004-MI-00141-25/contigs.fa ==> BUR-FI-2004-MI-00141-25_contigs
+  13 /home/zohaib/upcoast-v/assemblies/BUR-FI-2004-MI-00209-11/contigs.fa ==> BUR-FI-2004-MI-00209-11_contigs
+  14 /home/zohaib/upcoast-v/assemblies/BUR-FI-2005-MI-00166-03/contigs.fa ==> BUR-FI-2005-MI-00166-03_contigs
+  15 /home/zohaib/upcoast-v/assemblies/BUR-FI-2005-MI-00182-01/contigs.fa ==> BUR-FI-2005-MI-00182-01_contigs
+  16 /home/zohaib/upcoast-v/assemblies/BUR-FI-2005-MI-00271-09/contigs.fa ==> BUR-FI-2005-MI-00271-09_contigs
+  17 /home/zohaib/upcoast-v/assemblies/BUR-FI-2006-MI-00138-19/contigs.fa ==> BUR-FI-2006-MI-00138-19_contigs
+  18 /home/zohaib/upcoast-v/assemblies/BUR-FI-2006-MI-00192-01/contigs.fa ==> BUR-FI-2006-MI-00192-01_contigs
+  19 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00151-02/contigs.fa ==> BUR-FI-2008-MI-00151-02_contigs
+  20 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00154-05/contigs.fa ==> BUR-FI-2008-MI-00154-05_contigs
+  21 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00164-02/contigs.fa ==> BUR-FI-2008-MI-00164-02_contigs
+  22 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00172-08/contigs.fa ==> BUR-FI-2008-MI-00172-08_contigs
+  23 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00185-05/contigs.fa ==> BUR-FI-2008-MI-00185-05_contigs
+  24 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00187-01/contigs.fa ==> BUR-FI-2008-MI-00187-01_contigs
+  25 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00208-01/contigs.fa ==> BUR-FI-2008-MI-00208-01_contigs
+  26 /home/zohaib/upcoast-v/assemblies/BUR-FI-2008-MI-00222-01/contigs.fa ==> BUR-FI-2008-MI-00222-01_contigs
+  27 /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00116-04/contigs.fa ==> BUR-FI-2009-MI-00116-04_contigs
+  28 /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00174-01/contigs.fa ==> BUR-FI-2009-MI-00174-01_contigs
+  29 /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00278-01/contigs.fa ==> BUR-FI-2009-MI-00278-01_contigs
+  30 /home/zohaib/upcoast-v/assemblies/BUR-FI-2009-MI-00279-01/contigs.fa ==> BUR-FI-2009-MI-00279-01_contigs
+  31 /home/zohaib/upcoast-v/assemblies/BUR-FI-2010-MI-00125-01/contigs.fa ==> BUR-FI-2010-MI-00125-01_contigs
+  32 /home/zohaib/upcoast-v/assemblies/BUR-FI-2010-MI-00168-01/contigs.fa ==> BUR-FI-2010-MI-00168-01_contigs
+  33 /home/zohaib/upcoast-v/assemblies/BUR-FI-2010-MI-00280-01/contigs.fa ==> BUR-FI-2010-MI-00280-01_contigs
+  34 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00135-01/contigs.fa ==> BUR-FI-2011-MI-00135-01_contigs
+  35 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00146-01/contigs.fa ==> BUR-FI-2011-MI-00146-01_contigs
+  36 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00237-07/contigs.fa ==> BUR-FI-2011-MI-00237-07_contigs
+  37 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00261-06/contigs.fa ==> BUR-FI-2011-MI-00261-06_contigs
+  38 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00286-02/contigs.fa ==> BUR-FI-2011-MI-00286-02_contigs
+  39 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00289-06/contigs.fa ==> BUR-FI-2011-MI-00289-06_contigs
+  40 /home/zohaib/upcoast-v/assemblies/BUR-FI-2011-MI-00312-01/contigs.fa ==> BUR-FI-2011-MI-00312-01_contigs
+
+2020-08-10 23:33:25
+Running Basic statistics processor...
+  Contig files: 
+    1  BUR-FI-2000-MI-00211-02_contigs
+    2  BUR-FI-2000-MI-00285-01_contigs
+    3  BUR-FI-2000-MI-00363-04_contigs
+    4  BUR-FI-2000-MI-00377-01_contigs
+    5  BUR-FI-2001-MI-00223-16_contigs
+    6  BUR-FI-2001-MI-00270-01_contigs
+    7  BUR-FI-2001-MI-00319-01_contigs
+    8  BUR-FI-2001-MI-00354-01_contigs
+    9  BUR-FI-2001-MI-00371-05_contigs
+    10 BUR-FI-2002-MI-00380-09_contigs
+    11 BUR-FI-2003-MI-00331-04_contigs
+    12 BUR-FI-2004-MI-00141-25_contigs
+    13 BUR-FI-2004-MI-00209-11_contigs
+    14 BUR-FI-2005-MI-00166-03_contigs
+    15 BUR-FI-2005-MI-00182-01_contigs
+    16 BUR-FI-2005-MI-00271-09_contigs
+    17 BUR-FI-2006-MI-00138-19_contigs
+    18 BUR-FI-2006-MI-00192-01_contigs
+    19 BUR-FI-2008-MI-00151-02_contigs
+    20 BUR-FI-2008-MI-00154-05_contigs
+    21 BUR-FI-2008-MI-00164-02_contigs
+    22 BUR-FI-2008-MI-00172-08_contigs
+    23 BUR-FI-2008-MI-00185-05_contigs
+    24 BUR-FI-2008-MI-00187-01_contigs
+    25 BUR-FI-2008-MI-00208-01_contigs
+    26 BUR-FI-2008-MI-00222-01_contigs
+    27 BUR-FI-2009-MI-00116-04_contigs
+    28 BUR-FI-2009-MI-00174-01_contigs
+    29 BUR-FI-2009-MI-00278-01_contigs
+    30 BUR-FI-2009-MI-00279-01_contigs
+    31 BUR-FI-2010-MI-00125-01_contigs
+    32 BUR-FI-2010-MI-00168-01_contigs
+    33 BUR-FI-2010-MI-00280-01_contigs
+    34 BUR-FI-2011-MI-00135-01_contigs
+    35 BUR-FI-2011-MI-00146-01_contigs
+    36 BUR-FI-2011-MI-00237-07_contigs
+    37 BUR-FI-2011-MI-00261-06_contigs
+    38 BUR-FI-2011-MI-00286-02_contigs
+    39 BUR-FI-2011-MI-00289-06_contigs
+    40 BUR-FI-2011-MI-00312-01_contigs
+  Calculating N50 and L50...
+    1  BUR-FI-2000-MI-00211-02_contigs, N50 = 543256, L50 = 4, Total length = 5102463, GC % = 45.27, # N's per 100 kbp =  0.00
+    2  BUR-FI-2000-MI-00285-01_contigs, N50 = 497823, L50 = 3, Total length = 4997474, GC % = 45.36, # N's per 100 kbp =  0.00
+    3  BUR-FI-2000-MI-00363-04_contigs, N50 = 354451, L50 = 5, Total length = 5255802, GC % = 45.15, # N's per 100 kbp =  0.00
+    4  BUR-FI-2000-MI-00377-01_contigs, N50 = 345073, L50 = 6, Total length = 5309113, GC % = 45.21, # N's per 100 kbp =  1.88
+    5  BUR-FI-2001-MI-00223-16_contigs, N50 = 357058, L50 = 6, Total length = 5026730, GC % = 45.36, # N's per 100 kbp =  0.00
+    6  BUR-FI-2001-MI-00270-01_contigs, N50 = 415760, L50 = 5, Total length = 5368637, GC % = 45.23, # N's per 100 kbp =  0.00
+    7  BUR-FI-2001-MI-00319-01_contigs, N50 = 346165, L50 = 5, Total length = 5403225, GC % = 45.16, # N's per 100 kbp =  0.00
+    8  BUR-FI-2001-MI-00354-01_contigs, N50 = 530732, L50 = 5, Total length = 6221292, GC % = 44.03, # N's per 100 kbp =  0.00
+    9  BUR-FI-2001-MI-00371-05_contigs, N50 = 481402, L50 = 4, Total length = 5326879, GC % = 45.16, # N's per 100 kbp =  0.00
+    10 BUR-FI-2002-MI-00380-09_contigs, N50 = 429657, L50 = 5, Total length = 5127747, GC % = 45.23, # N's per 100 kbp =  0.00
+    11 BUR-FI-2003-MI-00331-04_contigs, N50 = 391259, L50 = 6, Total length = 5282811, GC % = 45.15, # N's per 100 kbp =  0.00
+    12 BUR-FI-2004-MI-00141-25_contigs, N50 = 471852, L50 = 3, Total length = 5138020, GC % = 45.04, # N's per 100 kbp =  0.00
+    13 BUR-FI-2004-MI-00209-11_contigs, N50 = 978721, L50 = 2, Total length = 5305545, GC % = 45.14, # N's per 100 kbp =  0.00
+    14 BUR-FI-2005-MI-00166-03_contigs, N50 = 470153, L50 = 4, Total length = 5138534, GC % = 45.03, # N's per 100 kbp =  0.00
+    15 BUR-FI-2005-MI-00182-01_contigs, N50 = 773272, L50 = 3, Total length = 5223698, GC % = 45.31, # N's per 100 kbp =  0.00
+    16 BUR-FI-2005-MI-00271-09_contigs, N50 = 461078, L50 = 4, Total length = 5142842, GC % = 45.32, # N's per 100 kbp =  0.00
+    17 BUR-FI-2006-MI-00138-19_contigs, N50 = 351251, L50 = 5, Total length = 5032497, GC % = 45.30, # N's per 100 kbp =  0.00
+    18 BUR-FI-2006-MI-00192-01_contigs, N50 = 540693, L50 = 3, Total length = 5131615, GC % = 45.25, # N's per 100 kbp =  0.00
+    19 BUR-FI-2008-MI-00151-02_contigs, N50 = 409728, L50 = 3, Total length = 5155483, GC % = 45.23, # N's per 100 kbp =  0.00
+    20 BUR-FI-2008-MI-00154-05_contigs, N50 = 449139, L50 = 5, Total length = 5231319, GC % = 45.16, # N's per 100 kbp =  0.00
+    21 BUR-FI-2008-MI-00164-02_contigs, N50 = 402165, L50 = 4, Total length = 5088077, GC % = 45.31, # N's per 100 kbp =  0.00
+    22 BUR-FI-2008-MI-00172-08_contigs, N50 = 547364, L50 = 4, Total length = 5110710, GC % = 45.16, # N's per 100 kbp =  0.00
+    23 BUR-FI-2008-MI-00185-05_contigs, N50 = 490625, L50 = 5, Total length = 5336992, GC % = 45.08, # N's per 100 kbp =  0.00
+    24 BUR-FI-2008-MI-00187-01_contigs, N50 = 460758, L50 = 4, Total length = 5189526, GC % = 45.17, # N's per 100 kbp =  0.00
+    25 BUR-FI-2008-MI-00208-01_contigs, N50 = 422721, L50 = 4, Total length = 5239689, GC % = 45.15, # N's per 100 kbp =  0.00
+    26 BUR-FI-2008-MI-00222-01_contigs, N50 = 406570, L50 = 5, Total length = 5146478, GC % = 45.34, # N's per 100 kbp =  0.00
+    27 BUR-FI-2009-MI-00116-04_contigs, N50 = 438096, L50 = 5, Total length = 5180168, GC % = 45.14, # N's per 100 kbp =  0.00
+    28 BUR-FI-2009-MI-00174-01_contigs, N50 = 180152, L50 = 10, Total length = 5314255, GC % = 45.20, # N's per 100 kbp =  0.00
+    29 BUR-FI-2009-MI-00278-01_contigs, N50 = 359913, L50 = 5, Total length = 5119872, GC % = 45.31, # N's per 100 kbp =  0.00
+    30 BUR-FI-2009-MI-00279-01_contigs, N50 = 220283, L50 = 8, Total length = 5257481, GC % = 45.30, # N's per 100 kbp =  0.00
+    31 BUR-FI-2010-MI-00125-01_contigs, N50 = 178147, L50 = 9, Total length = 5497762, GC % = 45.02, # N's per 100 kbp =  0.00
+    32 BUR-FI-2010-MI-00168-01_contigs, N50 = 737002, L50 = 3, Total length = 5117994, GC % = 45.24, # N's per 100 kbp =  0.00
+    33 BUR-FI-2010-MI-00280-01_contigs, N50 = 263874, L50 = 7, Total length = 5110005, GC % = 45.29, # N's per 100 kbp =  0.00
+    34 BUR-FI-2011-MI-00135-01_contigs, N50 = 281980, L50 = 7, Total length = 5395255, GC % = 45.22, # N's per 100 kbp =  0.00
+    35 BUR-FI-2011-MI-00146-01_contigs, N50 = 485710, L50 = 4, Total length = 5160290, GC % = 45.26, # N's per 100 kbp =  0.00
+    36 BUR-FI-2011-MI-00237-07_contigs, N50 = 261276, L50 = 7, Total length = 5108608, GC % = 45.26, # N's per 100 kbp =  0.00
+    37 BUR-FI-2011-MI-00261-06_contigs, N50 = 187419, L50 = 8, Total length = 5650497, GC % = 44.93, # N's per 100 kbp =  0.00
+    38 BUR-FI-2011-MI-00286-02_contigs, N50 = 259286, L50 = 7, Total length = 5302646, GC % = 45.24, # N's per 100 kbp =  0.00
+    39 BUR-FI-2011-MI-00289-06_contigs, N50 = 295550, L50 = 7, Total length = 5254049, GC % = 44.94, # N's per 100 kbp =  0.00
+    40 BUR-FI-2011-MI-00312-01_contigs, N50 = 280257, L50 = 7, Total length = 5263913, GC % = 45.36, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/GC_content_plot.pdf
+  Drawing BUR-FI-2000-MI-00211-02_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2000-MI-00211-02_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2000-MI-00285-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2000-MI-00285-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2000-MI-00363-04_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2000-MI-00363-04_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2000-MI-00377-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2000-MI-00377-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2001-MI-00223-16_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2001-MI-00223-16_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2001-MI-00270-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2001-MI-00270-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2001-MI-00319-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2001-MI-00319-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2001-MI-00354-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2001-MI-00354-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2001-MI-00371-05_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2001-MI-00371-05_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2002-MI-00380-09_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2002-MI-00380-09_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2003-MI-00331-04_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2003-MI-00331-04_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2004-MI-00141-25_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2004-MI-00141-25_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2004-MI-00209-11_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2004-MI-00209-11_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2005-MI-00166-03_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2005-MI-00166-03_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2005-MI-00182-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2005-MI-00182-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2005-MI-00271-09_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2005-MI-00271-09_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2006-MI-00138-19_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2006-MI-00138-19_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2006-MI-00192-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2006-MI-00192-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00151-02_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00151-02_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00154-05_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00154-05_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00164-02_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00164-02_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00172-08_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00172-08_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00185-05_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00185-05_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00187-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00187-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00208-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00208-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2008-MI-00222-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2008-MI-00222-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2009-MI-00116-04_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2009-MI-00116-04_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2009-MI-00174-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2009-MI-00174-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2009-MI-00278-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2009-MI-00278-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2009-MI-00279-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2009-MI-00279-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2010-MI-00125-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2010-MI-00125-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2010-MI-00168-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2010-MI-00168-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2010-MI-00280-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2010-MI-00280-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00135-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00135-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00146-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00146-01_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00237-07_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00237-07_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00261-06_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00261-06_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00286-02_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00286-02_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00289-06_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00289-06_contigs_GC_content_plot.pdf
+  Drawing BUR-FI-2011-MI-00312-01_contigs GC content plot...
+    saved to /home/zohaib/upcoast-v/assemblies/combined_quast/basic_stats/BUR-FI-2011-MI-00312-01_contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-08-10 23:34:01
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-08-10 23:34:27
+RESULTS:
+  Text versions of total report are saved to /home/zohaib/upcoast-v/assemblies/combined_quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/zohaib/upcoast-v/assemblies/combined_quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/zohaib/upcoast-v/assemblies/combined_quast/report.html
+  PDF version (tables and plots) is saved to /home/zohaib/upcoast-v/assemblies/combined_quast/report.pdf
+  Icarus (contig browser) is saved to /home/zohaib/upcoast-v/assemblies/combined_quast/icarus.html
+  Log is saved to /home/zohaib/upcoast-v/assemblies/combined_quast/quast.log
+
+Finished: 2020-08-10 23:34:28
+Elapsed time: 0:01:15.445556
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

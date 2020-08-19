@@ -1,0 +1,286 @@
+/home/zohaib/.conda/envs/shovill-1.1.0/bin/quast.py -o /home/zohaib/upcoast-v/public_genomes/combined_quast -t 32 /home/zohaib/upcoast-v/public_genomes/GCF_013393865.1_ASM1339386v1/GCF_013393865.1_ASM1339386v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_013393845.1_ASM1339384v1/GCF_013393845.1_ASM1339384v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_013393885.1_ASM1339388v1/GCF_013393885.1_ASM1339388v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009883895.1_ASM988389v1/GCF_009883895.1_ASM988389v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009883835.1_ASM988383v1/GCF_009883835.1_ASM988383v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009883855.1_ASM988385v1/GCF_009883855.1_ASM988385v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009883815.1_ASM988381v1/GCF_009883815.1_ASM988381v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009764055.1_ASM976405v1/GCF_009764055.1_ASM976405v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763565.1_ASM976356v1/GCF_009763565.1_ASM976356v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763605.1_ASM976360v1/GCF_009763605.1_ASM976360v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763445.1_ASM976344v1/GCF_009763445.1_ASM976344v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763165.1_ASM976316v1/GCF_009763165.1_ASM976316v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763525.1_ASM976352v1/GCF_009763525.1_ASM976352v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763505.1_ASM976350v1/GCF_009763505.1_ASM976350v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009764075.1_ASM976407v1/GCF_009764075.1_ASM976407v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763025.1_ASM976302v1/GCF_009763025.1_ASM976302v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763405.1_ASM976340v1/GCF_009763405.1_ASM976340v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763425.1_ASM976342v1/GCF_009763425.1_ASM976342v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009763545.1_ASM976354v1/GCF_009763545.1_ASM976354v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009734325.1_ASM973432v1/GCF_009734325.1_ASM973432v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009665495.1_ASM966549v1/GCF_009665495.1_ASM966549v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_009649015.1_ASM964901v1/GCF_009649015.1_ASM964901v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_008693745.1_ASM869374v1/GCF_008693745.1_ASM869374v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001996365.2_ASM199636v2/GCF_001996365.2_ASM199636v2_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_006517795.1_ASM651779v1/GCF_006517795.1_ASM651779v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_004194515.1_ASM419451v1/GCF_004194515.1_ASM419451v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_003691525.1_ASM369152v1/GCF_003691525.1_ASM369152v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_003612695.1_ASM361269v1/GCF_003612695.1_ASM361269v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_003612715.1_ASM361271v1/GCF_003612715.1_ASM361271v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_003351885.1_ASM335188v1/GCF_003351885.1_ASM335188v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_003076895.1_ASM307689v1/GCF_003076895.1_ASM307689v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_003085735.1_ASM308573v1/GCF_003085735.1_ASM308573v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_002220985.3_HGAP/GCF_002220985.3_HGAP_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_002209725.2_ASM220972v2/GCF_002209725.2_ASM220972v2_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_002073775.2_ASM207377v2/GCF_002073775.2_ASM207377v2_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001879585.1_ASM187958v1/GCF_001879585.1_ASM187958v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001758605.1_ASM175860v1/GCF_001758605.1_ASM175860v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001700835.1_ASM170083v1/GCF_001700835.1_ASM170083v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001636035.1_ASM163603v1/GCF_001636035.1_ASM163603v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001558495.2_ASM155849v2/GCF_001558495.2_ASM155849v2_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_001433415.1_ASM143341v1/GCF_001433415.1_ASM143341v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_000568495.1_ASM56849v1/GCF_000568495.1_ASM56849v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_000430405.1_ASM43040v1/GCF_000430405.1_ASM43040v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_000430425.1_ASM43042v1/GCF_000430425.1_ASM43042v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_000328405.1_ASM32840v1/GCF_000328405.1_ASM32840v1_genomic.fna /home/zohaib/upcoast-v/public_genomes/GCF_000196095.1_ASM19609v1/GCF_000196095.1_ASM19609v1_genomic.fna
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-3.10.0-229.14.1.el7.x86_64-x86_64-with-centos-7.1.1503-Core (linux_64)
+  Python version: 3.6.10
+  CPUs number: 32
+
+Started: 2020-08-19 13:27:04
+
+Logging to /home/zohaib/upcoast-v/public_genomes/combined_quast/quast.log
+
+CWD: /home/zohaib
+Main parameters: 
+  MODE: default, threads: 32, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  1  /home/zohaib/upcoast-v/public_genomes/GCF_013393865.1_ASM1339386v1/GCF_013393865.1_ASM1339386v1_genomic.fna ==> GCF_013393865.1_ASM1339386v1_genomic
+  2  /home/zohaib/upcoast-v/public_genomes/GCF_013393845.1_ASM1339384v1/GCF_013393845.1_ASM1339384v1_genomic.fna ==> GCF_013393845.1_ASM1339384v1_genomic
+  3  /home/zohaib/upcoast-v/public_genomes/GCF_013393885.1_ASM1339388v1/GCF_013393885.1_ASM1339388v1_genomic.fna ==> GCF_013393885.1_ASM1339388v1_genomic
+  4  /home/zohaib/upcoast-v/public_genomes/GCF_009883895.1_ASM988389v1/GCF_009883895.1_ASM988389v1_genomic.fna ==> GCF_009883895.1_ASM988389v1_genomic
+  5  /home/zohaib/upcoast-v/public_genomes/GCF_009883835.1_ASM988383v1/GCF_009883835.1_ASM988383v1_genomic.fna ==> GCF_009883835.1_ASM988383v1_genomic
+  6  /home/zohaib/upcoast-v/public_genomes/GCF_009883855.1_ASM988385v1/GCF_009883855.1_ASM988385v1_genomic.fna ==> GCF_009883855.1_ASM988385v1_genomic
+  7  /home/zohaib/upcoast-v/public_genomes/GCF_009883815.1_ASM988381v1/GCF_009883815.1_ASM988381v1_genomic.fna ==> GCF_009883815.1_ASM988381v1_genomic
+  8  /home/zohaib/upcoast-v/public_genomes/GCF_009764055.1_ASM976405v1/GCF_009764055.1_ASM976405v1_genomic.fna ==> GCF_009764055.1_ASM976405v1_genomic
+  9  /home/zohaib/upcoast-v/public_genomes/GCF_009763565.1_ASM976356v1/GCF_009763565.1_ASM976356v1_genomic.fna ==> GCF_009763565.1_ASM976356v1_genomic
+  10 /home/zohaib/upcoast-v/public_genomes/GCF_009763605.1_ASM976360v1/GCF_009763605.1_ASM976360v1_genomic.fna ==> GCF_009763605.1_ASM976360v1_genomic
+  11 /home/zohaib/upcoast-v/public_genomes/GCF_009763445.1_ASM976344v1/GCF_009763445.1_ASM976344v1_genomic.fna ==> GCF_009763445.1_ASM976344v1_genomic
+  12 /home/zohaib/upcoast-v/public_genomes/GCF_009763165.1_ASM976316v1/GCF_009763165.1_ASM976316v1_genomic.fna ==> GCF_009763165.1_ASM976316v1_genomic
+  13 /home/zohaib/upcoast-v/public_genomes/GCF_009763525.1_ASM976352v1/GCF_009763525.1_ASM976352v1_genomic.fna ==> GCF_009763525.1_ASM976352v1_genomic
+  14 /home/zohaib/upcoast-v/public_genomes/GCF_009763505.1_ASM976350v1/GCF_009763505.1_ASM976350v1_genomic.fna ==> GCF_009763505.1_ASM976350v1_genomic
+  15 /home/zohaib/upcoast-v/public_genomes/GCF_009764075.1_ASM976407v1/GCF_009764075.1_ASM976407v1_genomic.fna ==> GCF_009764075.1_ASM976407v1_genomic
+  16 /home/zohaib/upcoast-v/public_genomes/GCF_009763025.1_ASM976302v1/GCF_009763025.1_ASM976302v1_genomic.fna ==> GCF_009763025.1_ASM976302v1_genomic
+  17 /home/zohaib/upcoast-v/public_genomes/GCF_009763405.1_ASM976340v1/GCF_009763405.1_ASM976340v1_genomic.fna ==> GCF_009763405.1_ASM976340v1_genomic
+  18 /home/zohaib/upcoast-v/public_genomes/GCF_009763425.1_ASM976342v1/GCF_009763425.1_ASM976342v1_genomic.fna ==> GCF_009763425.1_ASM976342v1_genomic
+  19 /home/zohaib/upcoast-v/public_genomes/GCF_009763545.1_ASM976354v1/GCF_009763545.1_ASM976354v1_genomic.fna ==> GCF_009763545.1_ASM976354v1_genomic
+  20 /home/zohaib/upcoast-v/public_genomes/GCF_009734325.1_ASM973432v1/GCF_009734325.1_ASM973432v1_genomic.fna ==> GCF_009734325.1_ASM973432v1_genomic
+  21 /home/zohaib/upcoast-v/public_genomes/GCF_009665495.1_ASM966549v1/GCF_009665495.1_ASM966549v1_genomic.fna ==> GCF_009665495.1_ASM966549v1_genomic
+  22 /home/zohaib/upcoast-v/public_genomes/GCF_009649015.1_ASM964901v1/GCF_009649015.1_ASM964901v1_genomic.fna ==> GCF_009649015.1_ASM964901v1_genomic
+  23 /home/zohaib/upcoast-v/public_genomes/GCF_008693745.1_ASM869374v1/GCF_008693745.1_ASM869374v1_genomic.fna ==> GCF_008693745.1_ASM869374v1_genomic
+  24 /home/zohaib/upcoast-v/public_genomes/GCF_001996365.2_ASM199636v2/GCF_001996365.2_ASM199636v2_genomic.fna ==> GCF_001996365.2_ASM199636v2_genomic
+  25 /home/zohaib/upcoast-v/public_genomes/GCF_006517795.1_ASM651779v1/GCF_006517795.1_ASM651779v1_genomic.fna ==> GCF_006517795.1_ASM651779v1_genomic
+  26 /home/zohaib/upcoast-v/public_genomes/GCF_004194515.1_ASM419451v1/GCF_004194515.1_ASM419451v1_genomic.fna ==> GCF_004194515.1_ASM419451v1_genomic
+  27 /home/zohaib/upcoast-v/public_genomes/GCF_003691525.1_ASM369152v1/GCF_003691525.1_ASM369152v1_genomic.fna ==> GCF_003691525.1_ASM369152v1_genomic
+  28 /home/zohaib/upcoast-v/public_genomes/GCF_003612695.1_ASM361269v1/GCF_003612695.1_ASM361269v1_genomic.fna ==> GCF_003612695.1_ASM361269v1_genomic
+  29 /home/zohaib/upcoast-v/public_genomes/GCF_003612715.1_ASM361271v1/GCF_003612715.1_ASM361271v1_genomic.fna ==> GCF_003612715.1_ASM361271v1_genomic
+  30 /home/zohaib/upcoast-v/public_genomes/GCF_003351885.1_ASM335188v1/GCF_003351885.1_ASM335188v1_genomic.fna ==> GCF_003351885.1_ASM335188v1_genomic
+  31 /home/zohaib/upcoast-v/public_genomes/GCF_003076895.1_ASM307689v1/GCF_003076895.1_ASM307689v1_genomic.fna ==> GCF_003076895.1_ASM307689v1_genomic
+  32 /home/zohaib/upcoast-v/public_genomes/GCF_003085735.1_ASM308573v1/GCF_003085735.1_ASM308573v1_genomic.fna ==> GCF_003085735.1_ASM308573v1_genomic
+  33 /home/zohaib/upcoast-v/public_genomes/GCF_002220985.3_HGAP/GCF_002220985.3_HGAP_genomic.fna ==> GCF_002220985.3_HGAP_genomic
+  34 /home/zohaib/upcoast-v/public_genomes/GCF_002209725.2_ASM220972v2/GCF_002209725.2_ASM220972v2_genomic.fna ==> GCF_002209725.2_ASM220972v2_genomic
+  35 /home/zohaib/upcoast-v/public_genomes/GCF_002073775.2_ASM207377v2/GCF_002073775.2_ASM207377v2_genomic.fna ==> GCF_002073775.2_ASM207377v2_genomic
+  36 /home/zohaib/upcoast-v/public_genomes/GCF_001879585.1_ASM187958v1/GCF_001879585.1_ASM187958v1_genomic.fna ==> GCF_001879585.1_ASM187958v1_genomic
+  37 /home/zohaib/upcoast-v/public_genomes/GCF_001758605.1_ASM175860v1/GCF_001758605.1_ASM175860v1_genomic.fna ==> GCF_001758605.1_ASM175860v1_genomic
+  38 /home/zohaib/upcoast-v/public_genomes/GCF_001700835.1_ASM170083v1/GCF_001700835.1_ASM170083v1_genomic.fna ==> GCF_001700835.1_ASM170083v1_genomic
+  39 /home/zohaib/upcoast-v/public_genomes/GCF_001636035.1_ASM163603v1/GCF_001636035.1_ASM163603v1_genomic.fna ==> GCF_001636035.1_ASM163603v1_genomic
+  40 /home/zohaib/upcoast-v/public_genomes/GCF_001558495.2_ASM155849v2/GCF_001558495.2_ASM155849v2_genomic.fna ==> GCF_001558495.2_ASM155849v2_genomic
+  41 /home/zohaib/upcoast-v/public_genomes/GCF_001433415.1_ASM143341v1/GCF_001433415.1_ASM143341v1_genomic.fna ==> GCF_001433415.1_ASM143341v1_genomic
+  42 /home/zohaib/upcoast-v/public_genomes/GCF_000568495.1_ASM56849v1/GCF_000568495.1_ASM56849v1_genomic.fna ==> GCF_000568495.1_ASM56849v1_genomic
+  43 /home/zohaib/upcoast-v/public_genomes/GCF_000430405.1_ASM43040v1/GCF_000430405.1_ASM43040v1_genomic.fna ==> GCF_000430405.1_ASM43040v1_genomic
+  44 /home/zohaib/upcoast-v/public_genomes/GCF_000430425.1_ASM43042v1/GCF_000430425.1_ASM43042v1_genomic.fna ==> GCF_000430425.1_ASM43042v1_genomic
+  45 /home/zohaib/upcoast-v/public_genomes/GCF_000328405.1_ASM32840v1/GCF_000328405.1_ASM32840v1_genomic.fna ==> GCF_000328405.1_ASM32840v1_genomic
+  46 /home/zohaib/upcoast-v/public_genomes/GCF_000196095.1_ASM19609v1/GCF_000196095.1_ASM19609v1_genomic.fna ==> GCF_000196095.1_ASM19609v1_genomic
+
+2020-08-19 13:27:10
+Running Basic statistics processor...
+  Contig files: 
+    1  GCF_013393865.1_ASM1339386v1_genomic
+    2  GCF_013393845.1_ASM1339384v1_genomic
+    3  GCF_013393885.1_ASM1339388v1_genomic
+    4  GCF_009883895.1_ASM988389v1_genomic
+    5  GCF_009883835.1_ASM988383v1_genomic
+    6  GCF_009883855.1_ASM988385v1_genomic
+    7  GCF_009883815.1_ASM988381v1_genomic
+    8  GCF_009764055.1_ASM976405v1_genomic
+    9  GCF_009763565.1_ASM976356v1_genomic
+    10 GCF_009763605.1_ASM976360v1_genomic
+    11 GCF_009763445.1_ASM976344v1_genomic
+    12 GCF_009763165.1_ASM976316v1_genomic
+    13 GCF_009763525.1_ASM976352v1_genomic
+    14 GCF_009763505.1_ASM976350v1_genomic
+    15 GCF_009764075.1_ASM976407v1_genomic
+    16 GCF_009763025.1_ASM976302v1_genomic
+    17 GCF_009763405.1_ASM976340v1_genomic
+    18 GCF_009763425.1_ASM976342v1_genomic
+    19 GCF_009763545.1_ASM976354v1_genomic
+    20 GCF_009734325.1_ASM973432v1_genomic
+    21 GCF_009665495.1_ASM966549v1_genomic
+    22 GCF_009649015.1_ASM964901v1_genomic
+    23 GCF_008693745.1_ASM869374v1_genomic
+    24 GCF_001996365.2_ASM199636v2_genomic
+    25 GCF_006517795.1_ASM651779v1_genomic
+    26 GCF_004194515.1_ASM419451v1_genomic
+    27 GCF_003691525.1_ASM369152v1_genomic
+    28 GCF_003612695.1_ASM361269v1_genomic
+    29 GCF_003612715.1_ASM361271v1_genomic
+    30 GCF_003351885.1_ASM335188v1_genomic
+    31 GCF_003076895.1_ASM307689v1_genomic
+    32 GCF_003085735.1_ASM308573v1_genomic
+    33 GCF_002220985.3_HGAP_genomic
+    34 GCF_002209725.2_ASM220972v2_genomic
+    35 GCF_002073775.2_ASM207377v2_genomic
+    36 GCF_001879585.1_ASM187958v1_genomic
+    37 GCF_001758605.1_ASM175860v1_genomic
+    38 GCF_001700835.1_ASM170083v1_genomic
+    39 GCF_001636035.1_ASM163603v1_genomic
+    40 GCF_001558495.2_ASM155849v2_genomic
+    41 GCF_001433415.1_ASM143341v1_genomic
+    42 GCF_000568495.1_ASM56849v1_genomic
+    43 GCF_000430405.1_ASM43040v1_genomic
+    44 GCF_000430425.1_ASM43042v1_genomic
+    45 GCF_000328405.1_ASM32840v1_genomic
+    46 GCF_000196095.1_ASM19609v1_genomic
+  Calculating N50 and L50...
+    1  GCF_013393865.1_ASM1339386v1_genomic, N50 = 3589443, L50 = 1, Total length = 5521375, GC % = 45.03, # N's per 100 kbp =  0.02
+    2  GCF_013393845.1_ASM1339384v1_genomic, N50 = 3478693, L50 = 1, Total length = 5310635, GC % = 45.17, # N's per 100 kbp =  0.00
+    3  GCF_013393885.1_ASM1339388v1_genomic, N50 = 3325904, L50 = 1, Total length = 5107724, GC % = 45.41, # N's per 100 kbp =  0.00
+    4  GCF_009883895.1_ASM988389v1_genomic, N50 = 3491101, L50 = 1, Total length = 5456849, GC % = 45.20, # N's per 100 kbp =  0.00
+    5  GCF_009883835.1_ASM988383v1_genomic, N50 = 3421899, L50 = 1, Total length = 5563056, GC % = 45.27, # N's per 100 kbp =  0.00
+    6  GCF_009883855.1_ASM988385v1_genomic, N50 = 3358530, L50 = 1, Total length = 5420599, GC % = 45.34, # N's per 100 kbp =  0.00
+    7  GCF_009883815.1_ASM988381v1_genomic, N50 = 3338799, L50 = 1, Total length = 5347867, GC % = 45.35, # N's per 100 kbp =  0.00
+    8  GCF_009764055.1_ASM976405v1_genomic, N50 = 3535345, L50 = 1, Total length = 5425729, GC % = 45.19, # N's per 100 kbp =  0.00
+    9  GCF_009763565.1_ASM976356v1_genomic, N50 = 3418724, L50 = 1, Total length = 5292073, GC % = 45.26, # N's per 100 kbp =  0.00
+    10 GCF_009763605.1_ASM976360v1_genomic, N50 = 3397332, L50 = 1, Total length = 5170591, GC % = 45.30, # N's per 100 kbp =  0.00
+    11 GCF_009763445.1_ASM976344v1_genomic, N50 = 3332037, L50 = 1, Total length = 5087213, GC % = 45.39, # N's per 100 kbp =  0.00
+    12 GCF_009763165.1_ASM976316v1_genomic, N50 = 3326911, L50 = 1, Total length = 5160547, GC % = 45.33, # N's per 100 kbp =  0.00
+    13 GCF_009763525.1_ASM976352v1_genomic, N50 = 3323763, L50 = 1, Total length = 5158934, GC % = 45.34, # N's per 100 kbp =  0.00
+    14 GCF_009763505.1_ASM976350v1_genomic, N50 = 3323757, L50 = 1, Total length = 5158348, GC % = 45.34, # N's per 100 kbp =  0.00
+    15 GCF_009764075.1_ASM976407v1_genomic, N50 = 3311269, L50 = 1, Total length = 5144797, GC % = 45.35, # N's per 100 kbp =  0.00
+    16 GCF_009763025.1_ASM976302v1_genomic, N50 = 3297364, L50 = 1, Total length = 5128087, GC % = 45.42, # N's per 100 kbp =  0.00
+    17 GCF_009763405.1_ASM976340v1_genomic, N50 = 3293962, L50 = 1, Total length = 5136309, GC % = 45.37, # N's per 100 kbp =  0.00
+    18 GCF_009763425.1_ASM976342v1_genomic, N50 = 3284504, L50 = 1, Total length = 5088684, GC % = 45.46, # N's per 100 kbp =  0.00
+    19 GCF_009763545.1_ASM976354v1_genomic, N50 = 3276195, L50 = 1, Total length = 5129940, GC % = 45.36, # N's per 100 kbp =  0.00
+    20 GCF_009734325.1_ASM973432v1_genomic, N50 = 3577848, L50 = 1, Total length = 5579380, GC % = 45.31, # N's per 100 kbp =  0.00
+    21 GCF_009665495.1_ASM966549v1_genomic, N50 = 3639425, L50 = 1, Total length = 5397131, GC % = 45.17, # N's per 100 kbp =  0.00
+    22 GCF_009649015.1_ASM964901v1_genomic, N50 = 3311004, L50 = 1, Total length = 5144090, GC % = 45.32, # N's per 100 kbp =  0.00
+    23 GCF_008693745.1_ASM869374v1_genomic, N50 = 3320553, L50 = 1, Total length = 5154108, GC % = 45.35, # N's per 100 kbp =  0.00
+    24 GCF_001996365.2_ASM199636v2_genomic, N50 = 3446010, L50 = 1, Total length = 5389211, GC % = 45.30, # N's per 100 kbp =  0.00
+    25 GCF_006517795.1_ASM651779v1_genomic, N50 = 3556649, L50 = 1, Total length = 5383500, GC % = 45.32, # N's per 100 kbp =  0.00
+    26 GCF_004194515.1_ASM419451v1_genomic, N50 = 3239077, L50 = 1, Total length = 5286292, GC % = 45.35, # N's per 100 kbp =  0.00
+    27 GCF_003691525.1_ASM369152v1_genomic, N50 = 3508313, L50 = 1, Total length = 5396107, GC % = 45.24, # N's per 100 kbp =  0.00
+    28 GCF_003612695.1_ASM361269v1_genomic, N50 = 3402675, L50 = 1, Total length = 5188238, GC % = 45.30, # N's per 100 kbp =  0.00
+    29 GCF_003612715.1_ASM361271v1_genomic, N50 = 3318228, L50 = 1, Total length = 5173301, GC % = 45.29, # N's per 100 kbp =  0.00
+    30 GCF_003351885.1_ASM335188v1_genomic, N50 = 3567562, L50 = 1, Total length = 5580188, GC % = 45.34, # N's per 100 kbp =  0.00
+    31 GCF_003076895.1_ASM307689v1_genomic, N50 = 3477001, L50 = 1, Total length = 5444136, GC % = 45.27, # N's per 100 kbp =  0.00
+    32 GCF_003085735.1_ASM308573v1_genomic, N50 = 3394092, L50 = 1, Total length = 5404824, GC % = 45.33, # N's per 100 kbp =  0.00
+    33 GCF_002220985.3_HGAP_genomic, N50 = 3468665, L50 = 1, Total length = 5249405, GC % = 45.19, # N's per 100 kbp =  0.00
+    34 GCF_002209725.2_ASM220972v2_genomic, N50 = 3369175, L50 = 1, Total length = 5257294, GC % = 45.29, # N's per 100 kbp =  0.00
+    35 GCF_002073775.2_ASM207377v2_genomic, N50 = 3295711, L50 = 1, Total length = 5173292, GC % = 45.39, # N's per 100 kbp =  0.00
+    36 GCF_001879585.1_ASM187958v1_genomic, N50 = 3358191, L50 = 1, Total length = 5339691, GC % = 45.25, # N's per 100 kbp =  0.00
+    37 GCF_001758605.1_ASM175860v1_genomic, N50 = 3253462, L50 = 1, Total length = 5015214, GC % = 45.44, # N's per 100 kbp =  0.00
+    38 GCF_001700835.1_ASM170083v1_genomic, N50 = 3416467, L50 = 1, Total length = 5443401, GC % = 45.23, # N's per 100 kbp =  0.00
+    39 GCF_001636035.1_ASM163603v1_genomic, N50 = 3241330, L50 = 1, Total length = 5289960, GC % = 45.32, # N's per 100 kbp =  0.00
+    40 GCF_001558495.2_ASM155849v2_genomic, N50 = 3286802, L50 = 1, Total length = 5152461, GC % = 45.33, # N's per 100 kbp =  0.00
+    41 GCF_001433415.1_ASM143341v1_genomic, N50 = 3348850, L50 = 1, Total length = 5171661, GC % = 45.48, # N's per 100 kbp =  0.00
+    42 GCF_000568495.1_ASM56849v1_genomic, N50 = 3445790, L50 = 1, Total length = 5232572, GC % = 45.33, # N's per 100 kbp =  0.00
+    43 GCF_000430405.1_ASM43040v1_genomic, N50 = 3362228, L50 = 1, Total length = 5223562, GC % = 45.30, # N's per 100 kbp =  0.00
+    44 GCF_000430425.1_ASM43042v1_genomic, N50 = 3331580, L50 = 1, Total length = 5138575, GC % = 45.36, # N's per 100 kbp =  0.00
+    45 GCF_000328405.1_ASM32840v1_genomic, N50 = 3297305, L50 = 1, Total length = 5103524, GC % = 45.36, # N's per 100 kbp =  0.00
+    46 GCF_000196095.1_ASM19609v1_genomic, N50 = 3288558, L50 = 1, Total length = 5165770, GC % = 45.37, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GC_content_plot.pdf
+  Drawing GCF_013393865.1_ASM1339386v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_013393865.1_ASM1339386v1_genomic_GC_content_plot.pdf
+  Drawing GCF_013393845.1_ASM1339384v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_013393845.1_ASM1339384v1_genomic_GC_content_plot.pdf
+  Drawing GCF_013393885.1_ASM1339388v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_013393885.1_ASM1339388v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009883895.1_ASM988389v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009883895.1_ASM988389v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009883835.1_ASM988383v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009883835.1_ASM988383v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009883855.1_ASM988385v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009883855.1_ASM988385v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009883815.1_ASM988381v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009883815.1_ASM988381v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009764055.1_ASM976405v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009764055.1_ASM976405v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763565.1_ASM976356v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763565.1_ASM976356v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763605.1_ASM976360v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763605.1_ASM976360v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763445.1_ASM976344v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763445.1_ASM976344v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763165.1_ASM976316v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763165.1_ASM976316v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763525.1_ASM976352v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763525.1_ASM976352v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763505.1_ASM976350v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763505.1_ASM976350v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009764075.1_ASM976407v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009764075.1_ASM976407v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763025.1_ASM976302v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763025.1_ASM976302v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763405.1_ASM976340v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763405.1_ASM976340v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763425.1_ASM976342v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763425.1_ASM976342v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009763545.1_ASM976354v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009763545.1_ASM976354v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009734325.1_ASM973432v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009734325.1_ASM973432v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009665495.1_ASM966549v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009665495.1_ASM966549v1_genomic_GC_content_plot.pdf
+  Drawing GCF_009649015.1_ASM964901v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_009649015.1_ASM964901v1_genomic_GC_content_plot.pdf
+  Drawing GCF_008693745.1_ASM869374v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_008693745.1_ASM869374v1_genomic_GC_content_plot.pdf
+  Drawing GCF_001996365.2_ASM199636v2_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001996365.2_ASM199636v2_genomic_GC_content_plot.pdf
+  Drawing GCF_006517795.1_ASM651779v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_006517795.1_ASM651779v1_genomic_GC_content_plot.pdf
+  Drawing GCF_004194515.1_ASM419451v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_004194515.1_ASM419451v1_genomic_GC_content_plot.pdf
+  Drawing GCF_003691525.1_ASM369152v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_003691525.1_ASM369152v1_genomic_GC_content_plot.pdf
+  Drawing GCF_003612695.1_ASM361269v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_003612695.1_ASM361269v1_genomic_GC_content_plot.pdf
+  Drawing GCF_003612715.1_ASM361271v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_003612715.1_ASM361271v1_genomic_GC_content_plot.pdf
+  Drawing GCF_003351885.1_ASM335188v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_003351885.1_ASM335188v1_genomic_GC_content_plot.pdf
+  Drawing GCF_003076895.1_ASM307689v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_003076895.1_ASM307689v1_genomic_GC_content_plot.pdf
+  Drawing GCF_003085735.1_ASM308573v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_003085735.1_ASM308573v1_genomic_GC_content_plot.pdf
+  Drawing GCF_002220985.3_HGAP_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_002220985.3_HGAP_genomic_GC_content_plot.pdf
+  Drawing GCF_002209725.2_ASM220972v2_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_002209725.2_ASM220972v2_genomic_GC_content_plot.pdf
+  Drawing GCF_002073775.2_ASM207377v2_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_002073775.2_ASM207377v2_genomic_GC_content_plot.pdf
+  Drawing GCF_001879585.1_ASM187958v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001879585.1_ASM187958v1_genomic_GC_content_plot.pdf
+  Drawing GCF_001758605.1_ASM175860v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001758605.1_ASM175860v1_genomic_GC_content_plot.pdf
+  Drawing GCF_001700835.1_ASM170083v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001700835.1_ASM170083v1_genomic_GC_content_plot.pdf
+  Drawing GCF_001636035.1_ASM163603v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001636035.1_ASM163603v1_genomic_GC_content_plot.pdf
+  Drawing GCF_001558495.2_ASM155849v2_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001558495.2_ASM155849v2_genomic_GC_content_plot.pdf
+  Drawing GCF_001433415.1_ASM143341v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_001433415.1_ASM143341v1_genomic_GC_content_plot.pdf
+  Drawing GCF_000568495.1_ASM56849v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_000568495.1_ASM56849v1_genomic_GC_content_plot.pdf
+  Drawing GCF_000430405.1_ASM43040v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_000430405.1_ASM43040v1_genomic_GC_content_plot.pdf
+  Drawing GCF_000430425.1_ASM43042v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_000430425.1_ASM43042v1_genomic_GC_content_plot.pdf
+  Drawing GCF_000328405.1_ASM32840v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_000328405.1_ASM32840v1_genomic_GC_content_plot.pdf
+  Drawing GCF_000196095.1_ASM19609v1_genomic GC content plot...
+    saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/basic_stats/GCF_000196095.1_ASM19609v1_genomic_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-08-19 13:27:40
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-08-19 13:28:06
+RESULTS:
+  Text versions of total report are saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/report.html
+  PDF version (tables and plots) is saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/report.pdf
+  Icarus (contig browser) is saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/icarus.html
+  Log is saved to /home/zohaib/upcoast-v/public_genomes/combined_quast/quast.log
+
+Finished: 2020-08-19 13:28:06
+Elapsed time: 0:01:02.276394
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
