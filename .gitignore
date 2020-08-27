@@ -6,4 +6,5 @@
 *.html
 *.Rproj
 *.pdf
+*.DS_Store
 
